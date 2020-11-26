@@ -13,7 +13,7 @@
 1. cd (flags: ~, -, ., ..) - similar to bash's "cd" command
 1. ls (flags: -a, -l) - similar to bash's "ls" command
 1. jobs - gives info on all background jobs
-1. setenv \<var> <value> - creates environment variable var and stores value in it
+1. setenv \<var> \<value> - creates environment variable var and stores value in it
 1. unsetenv \<var> - destroys environment variable var
 1. bg - resumes a suspended background job in the background itself
 1. nightswatch - similar to bash's "watch" command
