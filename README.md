@@ -1,10 +1,10 @@
 # How To Run:
 
-	Run the following commands in the shell:
-		$ make
-		$ ./a.out
+Run the following commands in the shell:
+$ make
+$ ./a.out
 
-	NOTE:- 1. This shell's home directory is set as the directory from where the executable is invoked.
+NOTE:- 1. This shell's home directory is set as the directory from where the executable is invoked.
 
 # Manually implemented commands:
 
@@ -19,8 +19,8 @@
 1. nightswatch - similar to bash's "watch" command
 1. newborn - prints pid of most recently created process
 1. interrupt - prints CPU interrupt info
-1. kjob <job number> <signal number> - sends signal corresponding to signal number to job corresponding to job number
+1. kjob \<job number> \<signal number> - sends signal corresponding to signal number to job corresponding to job number
 1. overkill - kill all background jobs
 1. quit - terminate shell
 
-	NOTE:- Ctrl-C terminates the current running foreground command/job and Ctrl-Z suspends it and sends it to the background. Can use Ctrl-D to terminate shell.
+NOTE:- Ctrl-C terminates the current running foreground command/job and Ctrl-Z suspends it and sends it to the background. Can use Ctrl-D to terminate shell.
