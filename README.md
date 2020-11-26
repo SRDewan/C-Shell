@@ -1,10 +1,10 @@
 # How To Run:
 
 Run the following commands in the shell:
-$ make
+$ make <br>
 $ ./a.out
 
-NOTE:- 1. This shell's home directory is set as the directory from where the executable is invoked.
+**NOTE**: This shell's home directory is set as the directory from where the executable is invoked.
 
 # Manually implemented commands:
 
@@ -23,4 +23,4 @@ NOTE:- 1. This shell's home directory is set as the directory from where the exe
 1. overkill - kill all background jobs
 1. quit - terminate shell
 
-NOTE:- Ctrl-C terminates the current running foreground command/job and Ctrl-Z suspends it and sends it to the background. Can use Ctrl-D to terminate shell.
+**NOTE**: Ctrl-C terminates the current running foreground command/job and Ctrl-Z suspends it and sends it to the background. Can use Ctrl-D to terminate shell.
